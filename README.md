@@ -1,4 +1,6 @@
-# P2-vidensdeling
+# Second semester project - dissemination of knowledge
+
+A project in which we created a web platform for testing and improving a student's knowledge in preparation for exams.
 
 ## Start server:
 node main.js
